@@ -5,19 +5,19 @@ import Button from 'react-bootstrap/Button';
 function DataScience() {
   const careers = [
     {
-      imgUrl: "https://www.guvi.in/blog/wp-content/uploads/2023/05/Beginner-mistakes-in-data-science-career.webp",
+      imgUrl: "https://media.istockphoto.com/id/1364317541/photo/data-scientists-hand-of-programmer-touching-and-analyzing-development-at-various-information.jpg?s=612x612&w=0&k=20&c=mTnPYtYYxbyOdyeBQcu8LIWwD-31SIIfXSd0IEhhpYg=",
       instruction: "8 Mistakes To Avoid When You Begin a Data Science Career",
       Description:
         "With leading modern-day companies relying on Data Science professionals to make more informed decisions and bring in better solutions, the field of Data Science is constantly evolving. We agree that the demand for data scientists is steadily increasing. On the other hand, Data Science is hands down one of the competitive fields where you need to be a skillful professional with appropriate expertise to sustain your stand in the field"
     },
     {
-      imgUrl: "https://www.guvi.in/blog/wp-content/uploads/2023/04/image-5.png",
+      imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhiF5wLj3O9Po7Y4WUXg7kpy6klsYBSRj5DoADX_bHZpo6B70op7gYx2S9WoPC9lJLCAQ&usqp=CAU",
       instruction: "Graphic Designer vs. UI/UX Designer: Key Differences You Should Know",
       Description:
         "It has always been confusing for people to understand the key differences between Graphic designers vs. UI/UX designers. To help you in clearing your confusion and clear your way to become one, this blog has been articulated"
     },
     {
-      imgUrl: "https://www.guvi.in/blog/wp-content/uploads/2023/01/maang-unit-14-1-1024x266-1.png",
+      imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_2FHpSvkp_LrLulpZlLtPBXf6k9UEPeB-Njua24WcAhtyKpJ8Ax51nSp1RsnBbMnUsIA&usqp=CAU",
       instruction: "7 Powerful Steps to Land a Software Developer Internship",
       Description:
         "The GUVI Blog Full Stack Development category is here to help you steer through a lot of opinions that float on the internet. High-Quality content created by experts While graphic designers primarily concentrate on visual communication and aesthetics, UI/UX designers are more concerned with creating intuitive and user-centered digital experiences"
